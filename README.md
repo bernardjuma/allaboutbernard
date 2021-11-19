@@ -1,3 +1,6 @@
+-  ![explorer image](https://user-images.githubusercontent.com/93871805/142652464-8cd4e0e9-3b28-48f6-889f-d91c46360a7c.jpg)
+
+
 -  👋 Hi, I’m Bernard.
 -  💞️ I work at Safaricom Limited as a Customer Service Executive.
 -  💞️ My work is to offer high quality customer experience and customer support to all walk-in customers.
@@ -20,4 +23,4 @@
 bernardjuma/bernardjuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![explorer image](https://user-images.githubusercontent.com/93871805/142652464-8cd4e0e9-3b28-48f6-889f-d91c46360a7c.jpg)
+
