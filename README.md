@@ -11,7 +11,7 @@
 
 -  ✨ My hobbies are travelling, sight-seeing and exploring new places.
 -  ✨ I also like watching movies.
--  📫 You can reach me on bernard.juma@student.moringaschool.com
+-  📫 You can reach me on: bernard.juma@student.moringaschool.com
 
 
 
