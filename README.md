@@ -1,4 +1,4 @@
--  ![explorer image](https://user-images.githubusercontent.com/93871805/142652464-8cd4e0e9-3b28-48f6-889f-d91c46360a7c.jpg)
+![explorer image](https://user-images.githubusercontent.com/93871805/142652464-8cd4e0e9-3b28-48f6-889f-d91c46360a7c.jpg)
 
 
 -  👋 Hi, I’m Bernard.
