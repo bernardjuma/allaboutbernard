@@ -5,7 +5,7 @@
 -  👀 I’m interested in Information Technology.
 -  🌱 I’m currently learning Software Development.
 -  💞️ I've worked in Safaricom for 8 years.
--  ✨ I decided to take a class on Computer Programming so that I can venture into a new career of Software Development
+-  ✨ I decided to take a class on Computer Programming so that I can venture into a new career of Software Development.
 -  ✨ This course will help me to diversify my career options.
 -  ✨ It will also help me to build my foundation on a career growth in IT since I have been having an interest in IT.
 
