@@ -4,6 +4,8 @@
 
 
 
+
+
 -  👋 Hi, I’m Bernard.
 -  💞️ I work at Safaricom Limited as a Customer Service Executive.
 -  💞️ My work is to offer high quality customer experience and customer support to all walk-in customers.
