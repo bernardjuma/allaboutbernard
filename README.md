@@ -1,7 +1,7 @@
 -  👋 Hi, I’m Bernard.
 -  💞️ I work at Safaricom Limited as a Customer Service Executive.
 -  💞️ My work is to offer high quality customer experience and customer support to all walk-in customers.
--  ✨ Before joining Safaricom, I worked as a French teacher and an office assistant for about 5 years.
+-  ✨ Before joining Safaricom, I worked as a French teacher for a private school and an office assistant for about 5 years.
 -  👀 I’m interested in Information Technology.
 -  🌱 I’m currently learning Software Development.
 -  💞️ I've worked in Safaricom for 8 years.
