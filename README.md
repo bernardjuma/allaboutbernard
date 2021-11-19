@@ -10,7 +10,7 @@
 -  ✨ It will also help me to build my foundation on a career growth in IT since I have been having an interest in IT.
 
 -  ✨ My hobbies are travelling, sight-seeing and exploring new places.
--  ✨ I also like watching movies
+-  ✨ I also like watching movies.
 -  📫 You can reach me on bernard.juma@student.moringaschool.com
 
 
